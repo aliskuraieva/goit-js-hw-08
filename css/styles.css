@@ -1,12 +1,11 @@
 .gallery {
   display: flex;
   max-width: 1440px;
-  padding: 100px 156px;
+  padding: 24px 156px;
   margin: 0 auto;
   justify-content: center;
   align-items: flex-start;
   gap: 24px;
-  row-gap: 48px;
   list-style: none;
   flex-wrap: wrap;
 }
@@ -19,7 +18,6 @@
   display: block;
   width: 100%;
   height: auto;
-  background: rgba(46, 47, 66, 0.8);
 }
 
 .gallery-link {
